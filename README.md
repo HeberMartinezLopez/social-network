@@ -67,7 +67,7 @@ Reactions:
 
 Linked below is a video walkthrough on how to use the app:
 
-[]()
+[https://drive.google.com/file/d/1fYVZZMbfldff8fCy75cB7614Au5qRwLB/view?usp=sharing](https://drive.google.com/file/d/1fYVZZMbfldff8fCy75cB7614Au5qRwLB/view?usp=sharing)
 
 ## License
 
